@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Manrope:wght@300&family=Pushster&display=swap');
+@import url('https://cdn.jsdelivr.net/gh/DesignSystemsOSS/eccentrictouch@master/source/eccentrictouch.css');
+
+body{
+    background: linear-gradient(to left, black 50%,#333533 100%);
+}
+.container{
+    text-align: center;
+    margin-top: 2em;
+height: 95vh;
+    img{
+        border-radius: 50%;
+    }
+    h1{
+        color: white;
+        margin: 1em auto;
+    }
+    h2,footer{
+        color: gray;
+    }
+    .linkk{
+        margin: 1em 30em;
+        padding: 1em;
+        font-size: 1em;
+        i{
+            float: left;
+            text-align: center;
+          font-size: 2em;
+          margin-top: -0.2em;
+        }
+    }
+
+}
